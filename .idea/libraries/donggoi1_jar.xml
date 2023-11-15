@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="donggoi1_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../donggoi1/out/artifacts/donggoi1_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../donggoi1/out/artifacts/donggoi1_jar" recursive="false" />
+  </library>
+</component>
